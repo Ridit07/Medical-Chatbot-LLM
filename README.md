@@ -19,12 +19,12 @@ It provides **explanations with reasoning**, supports **multi-modal inputs** (te
 ## 📂 Project Structure
 
 Medical-Chatbot-LLM/
-├── app.py # Main Streamlit application
-├── model/ # Trained model files
-├── utils/ # Helper functions for image/text processing
-├── Demo Images/ # Example input images for testing
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+- ├── app.py # Main Streamlit application
+- ├── model/ # Trained model files
+- ├── utils/ # Helper functions for image/text processing
+- ├── Demo Images/ # Example input images for testing
+- ├── requirements.txt # Python dependencies
+- └── README.md # Project documentation
 
 
 ---
@@ -42,13 +42,13 @@ Medical-Chatbot-LLM/
 ## 🖼 Demo
 
 **Skin Lesion Detection**  
-<img src="Demo Images/Screenshot_1.png" width="500"/>
+<img src="Demo Images/Screenshot 2024-05-14 at 3.28.16 AM.png" width="500"/>
 
 **Chest X-ray Analysis**  
-<img src="Demo Images/Screenshot_2.png" width="500"/>
+<img src="Demo Images/Screenshot 2024-05-14 at 3.42.05 AM.png" width="500"/>
 
 **Multiple Image Checks**  
-<img src="Demo Images/Screenshot_3.png" width="500"/>
+<img src="Demo Images/Screenshot 2024-05-14 at 3.55.07 AM.png" width="500"/>
 
 ---
 
