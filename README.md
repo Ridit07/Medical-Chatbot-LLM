@@ -45,10 +45,10 @@ Medical-Chatbot-LLM/
 <img src="Demo Images/Screenshot 2024-05-14 at 3.28.16 AM.png" width="500"/>
 
 **Chest X-ray Analysis**  
-<img src="Demo Images/Screenshot 2024-05-14 at 3.42.05 AM.png" width="500"/>
+<img src="Demo Images/Screenshot 2024-05-14 at 3.55.07 AM.png" width="500"/>
 
 **Multiple Image Checks**  
-<img src="Demo Images/Screenshot 2024-05-14 at 3.55.07 AM.png" width="500"/>
+<img src="Demo Images/Screenshot 2024-05-14 at 3.42.05 AM.png" width="500"/>
 
 ---
 
